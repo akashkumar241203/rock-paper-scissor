@@ -78,7 +78,7 @@ input:checked ~ div .hand {
   position: absolute;
   box-sizing: border-box;
   border: 2px solid black;
-  background: rgb(14, 255, 247);
+  background: rgb(179, 255, 14);
   transition: all 0.1s;
 }
 
@@ -209,7 +209,7 @@ div #computer-hand .finger-4 {
 #text {
   text-align: center;
   display: none;
-  color: rgb(13, 189, 189);
+  color: rgb(233, 243, 243);
 }
 
 input:checked ~ #text {
