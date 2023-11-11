@@ -5,6 +5,6 @@ It includes three buttons for the player to choose from, and it displays the res
 # Game GUI :
 ![GUI](game.png)
 # Game GUI :
-![GUI] (Screenshot(26).png)
+![GUI] (Game (2).png)
 # Game GUI :
 ![GUI](Game(2).png)
